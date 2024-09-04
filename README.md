@@ -9,6 +9,7 @@
 - [💼・Term](#terms)
 - [🕵️‍♂️・Authors](#authors)
 - [📢・Discord](https://discord.gg/uhq)
+- **❔・Need Help ? add xvqh.xyz on discord**
 
 ## <a id="setup"></a> 📁 〢 Setting up
 
