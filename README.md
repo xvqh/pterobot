@@ -28,4 +28,6 @@
 - [xvqh](https://github.com/xvqh)
 - [Nekros-dsc](https://github.com/Nekros-dsc)
    **thanks for the text !**
+- [Thomas](https://awildthomas.carrd.co/)
+   **thanks for the help**
 ---
