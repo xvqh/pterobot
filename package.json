@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^1.7.4",
+    "discord.js": "^14.15.3",
+    "os": "^0.1.2",
+    "request": "^2.88.2"
+  }
+}
