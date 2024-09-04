@@ -30,7 +30,7 @@ class commandapikey {
             }
 
             if (!jsonData[interaction.user.id]) {
-                await interaction.reply({ content: "Tu dois d'abord te connecter avec la commande /login", ephemeral: true });
+                return interaction.reply({ content: "Tu dois d'abord te connecter avec la commande /login", ephemeral: true });
                 return;
             }
 
