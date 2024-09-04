@@ -14,7 +14,7 @@ const eventfile = fs.readdirSync("./src/events").filter(file => file.endsWith(".
 for (const folder of foldercmd) {
     commandfile = fs.readdirSync(`./src/commands/${folder}`).filter(file => file.endsWith(".js"))
 
-   console.log("Comandes:")
+   console.log("Commandes:")
 
 for (const file of commandfile) {
     const command = require(`./src/commands/${folder}/${file}`) 
